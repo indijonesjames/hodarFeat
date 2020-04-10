@@ -13,7 +13,7 @@ If you want I can alter it to all any byte array, or image type in memory as opp
 
 The header file constructs a class named featDetect, wherein two objects of importance are prototyped:
 
-pointStructure: Which returns the two points matched between images (x1,x2,y1,y2)
+pointStructure: Which returns the points corresponding with the matched feature between images (x1,x2,y1,y2)
 and the Hamming Distance  - i.e. the "power" of the match. Less being more.
 
 For debugs sake you get to see all the points created in a window.

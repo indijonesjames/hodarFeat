@@ -23,9 +23,13 @@ For debugs sake you get to see all the points created in a window.
 ## Option 1: run with example call:
 
 mkdir build
+
 cd build
+
 cmake ..
+
 make -j4
+
 ./feature_extraction imgage1.png image2.png
 
 ## Option 2: include header

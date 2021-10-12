@@ -1,4 +1,4 @@
-# hodarFeat
+# Quick Feature Detection Library
 
 Library requirements:
 libeigen3-dev
